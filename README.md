@@ -104,13 +104,13 @@ NIGHT CITY MECHANIC GUIDE
 ------------------
 ## Performance Items
 
-- These all work very similarly
-- Stand next to the vehicle and use these items.
-	- If the upgrade can not be put on the car, you will get a notification telling you so.
-	- If it can, you will begin adding it to the vehicle.
-- If you have an upgraded part already in the vehicle, adding a different level item will remove the previous upgrade from the car and place it in your inventory.
-- The mechanic's `toolbox` item is used to remove these upgrades and set them back to stock.
-- The items classed as performance items include:
+- Ini semua bekerja sangat mirip
+- Berdiri di samping kendaraan dan gunakan barang-barang ini.
+- Jika pemutakhiran tidak dapat dipasang di mobil, Anda akan mendapat pemberitahuan yang memberi tahu Anda.
+- Jika bisa, Anda akan mulai menambahkannya ke kendaraan.
+- Jika Anda sudah memiliki bagian yang ditingkatkan di dalam kendaraan, menambahkan item level yang berbeda akan menghapus peningkatan sebelumnya dari mobil dan menempatkannya di inventaris Anda.
+- Item `toolbox` mekanik digunakan untuk menghapus pemutakhiran ini dan mengembalikannya ke stok.
+- Item yang digolongkan sebagai item kinerja meliputi:
 ```
 - car_armor - "Vehicle Armor"
 - brakes1 - "Tier 1 Brakes"
